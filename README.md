@@ -22,9 +22,9 @@ npm start
 
 1) Import App component in `index.js` and pass to `ReactDOM.render(...)`
 
-2) Import styles
+2) Import styles in `index.js`
 
-3) Import components + include based on mockup below
+3) In `App.js`, import components + include based on mockup below
 
 4) Question: What does `this.props.children` do? (from `Title.js`)
 
