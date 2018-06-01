@@ -7,7 +7,7 @@
 cd ~/muktek/warmups
 
 # 2) clone this repository
-git clone «name-of-this-repo»
+git clone https://github.com/tphdev/activity--react-basics.git
 
 # 3) download node_modules
 npm install
