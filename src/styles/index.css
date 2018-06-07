@@ -63,14 +63,23 @@ h5 {
   font-weight: 200;
 }
 
+.User{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 1px solid #aaa;
+  margin: 10px;
+}
+
 .User h6{
   font-weight: 100;
   margin: .25rem;
 }
 
 .FeaturedArticle{
+
   width: 98%;
-  margin: 0 auto;
+  margin: 1rem auto;
   border: 1px solid #333;
   border-radius: 8px;
 }

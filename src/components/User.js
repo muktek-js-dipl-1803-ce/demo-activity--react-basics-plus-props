@@ -5,8 +5,8 @@ class User extends Component {
   render() {
     return (
       <div className="User">
-        <img src="https://api.adorable.io/avatars/100/th.png"/>
-        <h6>Becky</h6>
+        <img src={`https://flathash.com/${this.props.theUserStr}`}/>
+        <h6>{this.props.theUserStr}</h6>
       </div>
     );
   }
